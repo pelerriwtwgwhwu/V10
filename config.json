@@ -1,8 +1,8 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
+    "ownerNumber": "6285807264974@s.whatsapp.net", 
+    "ownerName": "FaruqOfc", 
     "botName": "Neobot",
-    "footer": "© BOTMD | 2022", 
+    "footer": "© Neobot bangsat | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "FaruqOfc"
     }
 }
